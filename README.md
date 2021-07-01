@@ -40,12 +40,6 @@
 ➡️ [more videos...]( https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured)
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-  <summary>:zap: GitHub Stats</summary>
-
-</details>
 
 [website]: https://mahirabdalazimmokhtar.com
 [course]: https://www.youtube.com/watch?v=nBPVB2vRXuA&list=PLwHBJiWPa_ymZDSc5VD2REiNkR_U67u_q
