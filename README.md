@@ -21,8 +21,8 @@ I'm Mahir-AbdAlazim - [MahirProfile][website] 👋
 
 ### Languages and Tools
 
-- 🔭 Android Studio , Vscode , Intellij IDE , Postman m , GitHub , WebStorm ,Photshop
-- 🌱 Java , C++ , HTML , CSS , Dart , PHP ,VB.net
+- 🔭 Android Studio , Vscode , Intellij IDE , Postman , GitHub , WebStorm ,Photoshop
+- 🌱 Java , C++ , HTML , CSS , Dart , PHP ,VB.net ,DB
 
 <br />
 
