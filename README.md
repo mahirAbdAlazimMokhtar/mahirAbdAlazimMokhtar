@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 <h2> I'm Mahir Abd-Alazim Mokhtar</h2>- [MahirProfile][website] 👋
 
