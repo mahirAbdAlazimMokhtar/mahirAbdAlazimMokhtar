@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Mahir-AbdAlazim - [MahirProfile][website] 👋
+<h2> I'm Mahir-AbdAlazim </h2>- [MahirProfile][website] 👋
 
 ## I'm a Developer, and Teacher
 
