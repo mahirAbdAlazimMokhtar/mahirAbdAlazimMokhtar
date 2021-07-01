@@ -11,12 +11,24 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🎮 I love play football gaming  and play 8ball
 
-### Connect with me
+### Connect with me:
 
-[<img align="left" alt="mahirabdalazim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mahirabdalazim | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="code4coder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mahirabdalazim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/mahir-abd-alazim-635a151b2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+<a href = "https://twitter.com/mahir_abdalazim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+<a href = "https://www.facebook.com/mahr.bwb"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+
+<a href = "https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+<a href = "mahr.bwb@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+
+<a href = "0100097973"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+
+</p>
+
 
 <br/>
 
@@ -46,11 +58,12 @@
 
 ➡️ [more videos...]( https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured)
 
+## ❤ Thank You For Wathching My Profile
+
 ---
 
 [website]: https://mahirabdalazimmokhtar.com
 [course]: https://www.youtube.com/watch?v=nBPVB2vRXuA&list=PLwHBJiWPa_ymZDSc5VD2REiNkR_U67u_q
 [twitter]: https://twitter.com/mahir_abdalazim
 [youtube]: https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured
-[instagram]: https://instagram.com/codeS
 [linkedin]: https://www.linkedin.com/in/mahir-abd-alazim-635a151b2/
