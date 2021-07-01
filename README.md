@@ -25,6 +25,11 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
      <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+        <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
+          <a href="https://www.dart.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+            <a href="https://www.php.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+                  <a href="https://www.git.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     </p>
 <br />
 
