@@ -37,7 +37,7 @@ I'm Mahir-AbdAlazim - [MahirProfile][website] 👋
 - [Setup Vscode and First App](https://www.youtube.com/watch?v=LIzoXgEtlnA)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...]( https://www.youtube.com/channel/UCxL2qO4_d7chPRb0cUiiY_w/featured)
 
 ---
 <details>
