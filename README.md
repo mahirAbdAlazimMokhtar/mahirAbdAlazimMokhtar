@@ -5,11 +5,11 @@
 
 ## I'm a Developer, and Teacher
 
-- 🔭 I just launched my first course: [Become A Mobile Developer!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 📱 I just launched my first course: [Become A Mobile Developer!][course]!
+- 📖 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to gaming  and play 8ball
+- 🎮 I love play football gaming  and play 8ball
 
 ### Connect with me
 
