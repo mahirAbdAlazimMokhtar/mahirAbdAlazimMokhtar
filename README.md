@@ -21,10 +21,9 @@
 <br/>
 
 ### Languages and Tools
-
-- 🔭 Android Studio , Vscode , Intellij IDE , Postman , GitHub , WebStorm ,Photoshop
-- 🌱 Java , C++ , HTML , CSS , Dart , PHP ,VB.net ,DB
-
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    </p>
 <br />
 
 ---
