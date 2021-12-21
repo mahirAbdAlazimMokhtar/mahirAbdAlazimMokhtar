@@ -5,7 +5,7 @@
 
 ## I'm a Developer, and Teacher
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirAbdAlazim_Mokhtar&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirAbdAlazimMokhtar&count_private=true&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirAbdAlazimMokhtar&theme=dark&layout=compact&count_private=true"/>
 
 
